@@ -12,7 +12,7 @@ def multiply(a, b):
 def main():
     function()
     add(1, 2)
-    multiply()
+    multiply(3, 4)
     print('end')
 
 if __name__ == "__main__":
