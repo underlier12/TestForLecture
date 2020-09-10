@@ -9,6 +9,9 @@ def add(a, b):
 def multiply(a, b):
     print('a * b = ', a*b)
 
+def pr():
+    print('PR test')
+
 def main():
     function()
     add(1, 2)
